@@ -1,0 +1,2 @@
+Let's see what we get here. Testing writing a file via command line.
+Enter sends me to the next line. ctrl+Z will cause me to finish editting.
